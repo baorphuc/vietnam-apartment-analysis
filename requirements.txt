@@ -1,0 +1,16 @@
+# Core
+pandas==3.0.2
+numpy==2.4.4
+python-dotenv==1.2.2
+psycopg2-binary==2.9.12
+
+# Scraping
+curl_cffi==0.15.0
+beautifulsoup4==4.14.3
+
+# Visualization
+plotly==6.7.0
+streamlit==1.57.0
+
+# ML (optional)
+scikit-learn==1.8.0
