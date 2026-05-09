@@ -1,9 +1,7 @@
-@"
-.env
+﻿.env
 data/raw/
 data/charts/
 __pycache__/
 *.pyc
 venv/
 *.log
-"@ | Out-File -Encoding utf8 .gitignore
