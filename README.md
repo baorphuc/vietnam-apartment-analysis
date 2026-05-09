@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project scraping, processing, and visualizing apartment listing data from [batdongsan.com.vn](https://batdongsan.com.vn) across **Ho Chi Minh City** and **Hanoi**.
 
-Built as a Data Analyst internship portfolio project.
-
 ---
 
 ## 📌 Business Problem
