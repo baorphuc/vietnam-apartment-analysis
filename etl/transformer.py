@@ -58,6 +58,9 @@ DISTRICT_MAP = {
     "gia lâm": "Gia Lam",          "h. gia lâm": "Gia Lam",
     "đông anh": "Dong Anh",        "h. đông anh": "Dong Anh",
     "sóc sơn": "Soc Son",          "h. sóc sơn": "Soc Son",
+    "h. hoài đức":  "Hoai Duc",
+    "h. thạch thất": "Thach That",
+    "h. thanh trì": "Thanh Tri",
 }
 
 
